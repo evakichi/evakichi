@@ -14,7 +14,7 @@
 ## Mainly work experience
 - Riken Advanced Institute for Computational Science(K computer) for 2 half years.
 - Center of Genimic Medicine of Kyoto University for one year.
-- National Institute of Information and communication technology for one year.
+- National Institute of Information and Communication Technology for one year.
 - National Institute of Advanced Industrial Science and Technology for total 3 half years.
 - National Institute for Materials Science for over 4 years.
 - And so on.
