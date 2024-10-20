@@ -3,7 +3,7 @@
 - I'm an engineer, I have received Ph.D of Eng around 15 years ago.
 - My contribution is to develop the iPat/OMP(interactive Parallelization assistance tool for OpenMP).
   - (Short explanation is here https://en.wikipedia.org/wiki/Automatic_parallelization_tool)
-  - (Mainly my paper is here DOI: 10.1093/ietisy/e89-d.2.399)
+  - (Main my paper is here DOI: 10.1093/ietisy/e89-d.2.399)
 - Now I am working for Computational Science K.K.(CSKK).
 - I can write MPI program, I can write OpenMP program. Especially Parallel Sorting Programs.
 - I am learning OpenACC, CUDA and so on.
@@ -11,7 +11,7 @@
 - I'm bio informatician.
 - I'm interested in Parallelization assistance environment, Parallelizing compiler, High performance algorithm.
 
-## Mainly work experience
+## Main work experience
 - Riken Advanced Institute for Computational Science(K computer) for 2 half years.
 - Center of Genimic Medicine of Kyoto University for one year.
 - National Institute of Information and Communication Technology for one year.
